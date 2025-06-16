@@ -10,6 +10,9 @@ function App() {
         <h1 className="skip-heading">Choose Your Skip Size</h1>
         <p className="skip-subheading">Select the skip size that best suits your needs</p>
       </div>
+      <div className="skip-section">
+        <SkipGrid />
+      </div>
     </div>
   );
 }
