@@ -1,12 +1,71 @@
-# React + Vite
+# 🚛 Business Skip Hire App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clean and minimal React + Vite application that replicates the **"Choose Your Skip Size"** page from the website [wewantwaste.co.uk](https://wewantwaste.co.uk/) with an improved, responsive UI design. ✨
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧰 Tech Stack
 
-## Expanding the ESLint configuration
+This application is built using the following technologies:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React** – Frontend UI library
+- ⚡ **Vite** – Fast development server and bundler (used for deployment too)
+- 💅 **CSS** – Custom styling for layout and responsiveness
+- 🔐 **TypeScript** – Static typing for improved developer experience
+- 🛠️ **GitHub** – Source control and version management
+
+---
+
+## 🎨 UI Design Principles
+
+This project focuses on applying key UI/UX principles to ensure a smooth and visually pleasing experience:
+
+- ✅ Clean and modern design
+- 📱 Fully responsive layout (works on all screen sizes)
+- 🧩 Reusable and maintainable components
+- ⚙️ Smooth transitions and layout consistency
+
+> 💡 The design follows real-world UI best practices to enhance accessibility, visual hierarchy, and interactivity.
+
+---
+
+## 🔗 Live Preview
+
+The application is **deployed and live**! You can view the developed UI here:
+
+👉 [Live Website Link](https://musthakeem98.github.io/Business-Skip-Hire-app/) <!-- Replace this with the actual deployed URL -->
+
+---
+
+## 🧑‍💻 Running Locally
+
+If you prefer to view or modify the code locally, follow these steps:
+
+```bash
+# Clone the repo
+git clone git@github.com:Musthakeem98/Business-Skip-Hire-app.git
+
+# Navigate into the project folder
+cd Business-Skip-Hire-app
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
+
+- Open your browser and navigate to [Local Website Link](http://localhost:5173) to see the app running locally.
+
+
+---
+
+## 🧪 ESLint & Best Practices
+
+- ✅ Type-aware linting enabled with **TypeScript**
+- 🧼 Code style maintained using **ESLint**
+- ⚡ Fast Refresh via `@vitejs/plugin-react`
+
+---
+
+> Built with 💙 by [Musthakeem](https://github.com/Musthakeem98)
