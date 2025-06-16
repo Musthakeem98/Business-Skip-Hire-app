@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Business-Skip-Hire-app/',
+  base: '/business-skip-hire-app/',
 })
